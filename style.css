@@ -8,3 +8,7 @@ background-position: center;
 ul li {
   font-size: 25px;
 }
+img {
+  width: 100%;
+  height: inherit;
+}
